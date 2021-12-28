@@ -4,9 +4,9 @@
     1. Sell that borrowed asset (Short selling)
 4. Repay everything back
 
-Tesing
+Testing
 
-Integration tes: Kovan
+Integration test: Kovan
 local unit tests - Mainnet-fork (as no oracles)
 
-Paraswap, uniswap for swap
+Paraswap, uniswap for swap - not used
